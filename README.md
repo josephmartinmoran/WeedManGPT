@@ -10,3 +10,5 @@ Runs locally http://127.0.0.1:7860
 Reference:
 https://github.com/Sentdex/ChatGPT-API-Basics
 https://www.youtube.com/watch?v=c-g6epk3fFE&t=879s
+
+![img.png](img.png)
